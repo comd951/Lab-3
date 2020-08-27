@@ -1,17 +1,5 @@
 # Lab-3
 Literally lab 3.
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 * hello2Function.cpp
 *
